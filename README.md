@@ -1,6 +1,4 @@
 - 👋 olá eu sou @daymedeiros
-- 👀 
-- 🌱
 - 💞️Aberta a aprender cada vez mais sobre a linguagem de programação. 
 - 📫daymedeiros2011@hotmail.com
 - 📫daiane.medeiros@escola.pr.gov.br
