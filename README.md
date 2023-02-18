@@ -2,7 +2,8 @@
 - 💞️Aberta a aprender cada vez mais sobre a linguagem de programação. 
 - 
 - Estou aprendendo...
-- https://editor.p5js.org/ https://scratch.mit.edu/
+- https://editor.p5js.org/ https://scratch.mit.edu/![image](https://user-images.githubusercontent.com/104985501/219903876-d54dd918-13dd-4ca0-be5e-90fc44cce588.png)
+
 - 
 - Contatos
 - 📫daymedeiros2011@hotmail.com
