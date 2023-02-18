@@ -1,8 +1,12 @@
-- 👋 Sou a Professora de Arte e Pensamento Computacional. 
-- 💞️Aberta a aprender cada vez mais sobre a linguagem de programação. 
+- 👋 Sou Professora de Arte e Pensamento Computacional. 
+- ''PRIMEIRA REGRA DA PROGRAMAÇÃO SE FUNCIONOU NÃO MEXA'':D :D 
+- Esse ano 2023 com as turmas de P.C 8º e 9º Ensino Fundamental
+- E 1ª Ano NEM. 
 - 
 - Estou aprendendo...
-- https://editor.p5js.org/ https://scratch.mit.edu/![image](https://user-images.githubusercontent.com/104985501/219903876-d54dd918-13dd-4ca0-be5e-90fc44cce588.png)
+- https://editor.p5js.org/ 
+- https://scratch.mit.edu
+- HTML CSS3
 
 - 
 - Contatos
