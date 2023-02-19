@@ -1,5 +1,5 @@
 ## Olá!  Sou Professora de Arte e Pensamento Computacional. 🖐️
-## PRIMEIRA REGRA DA PROGRAMAÇÃO SE FUNCIONOU NÃO MEXA
+## PRIMEIRA REGRA DA PROGRAMAÇÃO SE FUNCIONOU NÃO MEXA 😂🚀🏷️💻🖱️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daimedeiros07/)
 
@@ -14,9 +14,14 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="scratch" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" />
-   
-</div><br/>
+   </div><br/>
 
 ## Esse ano 2023 com as turmas de P.C 8º e 9º Ensino Fundamental
-## E 1ª Ano NEM. 
+## E 1ª Ano NEM.
+
+
+🎼🎵🎶🎧
+<div style="display: inline_block">
+  <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=KxnpFKZowcs />
+</div><br/>
 
