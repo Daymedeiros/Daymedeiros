@@ -1,12 +1,6 @@
 ## Olá!  Sou Professora de Arte e Pensamento Computacional. 🖐️
 ## PRIMEIRA REGRA DA PROGRAMAÇÃO SE FUNCIONOU NÃO MEXA 😂🚀💻🖱️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daimedeiros07/)
-
-
-📫daymedeiros2011@hotmail.com
-📫daiane.medeiros@escola.pr.gov.br
-
 ## Tecnologias que eu estou Aprendendo e ensinando no meu dia a dia . 
 
 <div style="display: inline_block">
@@ -19,10 +13,13 @@
 ## Esse ano 2023 com as turmas de P.C 8º e 9º Ensino Fundamental
 ## E 1ª Ano NEM.
 
+📫daymedeiros2011@hotmail.com
+📫daiane.medeiros@escola.pr.gov.br
 
-🎼🎵🎶🎧
-<div style="display: inline_block">
-  <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)>(https://www.youtube.com/watch?v=KxnpFKZowcs/)
-                                         
-</div><br/>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daimedeiros07/)
+
+
+## Ouça 🎼🎵🎶🎧
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=BfsCIxYTBC0)
+
 
