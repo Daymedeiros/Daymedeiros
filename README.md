@@ -4,8 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daimedeiros07/)
 
 
-##
-[! [] (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/)
 📫daymedeiros2011@hotmail.com
 📫daiane.medeiros@escola.pr.gov.br
 
