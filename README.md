@@ -1,5 +1,5 @@
 ## Olá!  Sou Professora de Arte e Pensamento Computacional. 🖐️
-## PRIMEIRA REGRA DA PROGRAMAÇÃO SE FUNCIONOU NÃO MEXA 😂🚀🏷️💻🖱️
+## PRIMEIRA REGRA DA PROGRAMAÇÃO SE FUNCIONOU NÃO MEXA 😂🚀💻🖱️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daimedeiros07/)
 
@@ -22,6 +22,7 @@
 
 🎼🎵🎶🎧
 <div style="display: inline_block">
-  <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=KxnpFKZowcs />
+  <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)>(https://www.youtube.com/watch?v=KxnpFKZowcs/)
+                                         
 </div><br/>
 
