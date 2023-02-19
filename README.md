@@ -10,8 +10,7 @@
   <img align="center" alt="scratch" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" />
    </div><br/>
 
-## Esse ano 2023 com as turmas de P.C 8º e 9º Ensino Fundamental
-## E 1ª Ano NEM.
+## Ano de 2023 com as turmas de P.C 8º e 9º Ensino Fundamental e 1º ano NEM.
 
 📫daymedeiros2011@hotmail.com
 📫daiane.medeiros@escola.pr.gov.br
